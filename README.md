@@ -1,5 +1,5 @@
 # Fuzz
-可快速生成Fuzz数据，自定义fuzz复杂程度及fuzz长度。
+可快速生成Fuzz数据，自定义Fuzz复杂程度及Fuzz长度。
 
 ![image](https://user-images.githubusercontent.com/122865609/212847078-c16e5af7-edbb-4558-a8ef-d28989b2e880.png)
 
